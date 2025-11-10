@@ -1,39 +1,5 @@
 # Judge - 关键词批量提取AI工具
 
-> 🎯 基于大语言模型的批量文档关键词提取工具
-
-[![License](https://img.shields.io/badge/license-Proprietary-blue.svg)](LICENSE)
-[![macOS](https://img.shields.io/badge/macOS-13.0+-green.svg)](https://www.apple.com/macos/)
-[![Release](https://img.shields.io/github/v/release/EMingZ/Judge-macOS)](https://github.com/EMingZ/Judge-macOS-Release/releases/latest)
-
-## 📥 下载
-
-从 [Releases](https://github.com/EMingZ/Judge-macOS-Release/releases/latest) 页面下载最新版本。
-
-**当前版本**: v1.4
-
-## ✨ 特性
-
-- 🤖 支持 DeepSeek 和 ZhipuAI 两种 AI 服务
-- 📝 双模式：关键词模式 + JSON 模式
-- ⚙️ 模型配置管理，快速切换配置
-- 📊 批量处理 .txt 和 .docx 文档
-- 💾 自动导出 CSV 格式结果
-- 🔄 支持暂停、继续、停止操作
-
-## 🚀 快速开始
-
-1. 下载最新版 DMG 文件
-2. 拖拽安装到 Applications
-3. 获取 AI 服务的 API Key
-4. 开始使用！
-
-详细使用说明请查看下方完整文档。
-
----
-
-# Judge - 关键词批量提取AI工具
-
 ## 简介
 
 Judge 是一款基于大语言模型，批量提取文档关键词的 macOS 应用程序，写这款程序一开始是为了批量提取裁判书中的关键词。
@@ -69,7 +35,7 @@ Judge 是一款基于大语言模型，批量提取文档关键词的 macOS 应�
 
 ### 下载应用
 
-从 [GitHub Releases](https://github.com/EMingZ/Judge-macOS/releases/latest) 下载最新版本。
+从 [GitHub Releases](https://github.com/EMingZ/Judge-Release/releases/latest) 下载最新版本。
 
 ### 安装步骤
 
